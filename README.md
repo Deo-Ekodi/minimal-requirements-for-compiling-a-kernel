@@ -8,9 +8,7 @@ Whether you're a beginner or looking for a quick reference, this guide aims to s
 1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Getting Started](#getting-started)
-4. [Compilation Steps](#compilation-steps)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contributing)
+4. [Contributing](#contributing)
 
 ## Introduction
 
